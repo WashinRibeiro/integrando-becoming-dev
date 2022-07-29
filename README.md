@@ -1,1 +1,1 @@
-# Tntegração com ReactJS <br /> Projeto Becoming Dev
+# Integração com ReactJS <br /> Projeto Becoming Dev
