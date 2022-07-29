@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, input, button {
+  font-size: 16px;
+  font-family: 'Poppins', sans-serif;
+
+  -webkit-font-smoothing: antialiased; 
+  /* Para deixar os contornos das nossas fonts mais suave */
+
+}
+
+body {
+  width: 100%;
+  background-color: #c9d9ff;
+}
